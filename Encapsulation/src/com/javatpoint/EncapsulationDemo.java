@@ -4,9 +4,9 @@ class EncapsulationDemo
 {
 	public static void main(String args[])
 	{
-		Student s = new Student();
+		Student s1 = new Student();
 		
-		s.setName("Deepak");
-		System.out.println(s.getName());
+		s1.setName("Deepak");
+		System.out.println(s1.getName());
 	}
 }
