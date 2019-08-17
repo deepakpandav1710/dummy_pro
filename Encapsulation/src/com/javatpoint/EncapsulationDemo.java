@@ -6,6 +6,8 @@ class EncapsulationDemo
 	{
 		Student s1 = new Student();
 		
+		System.out.printf("Hello Java...");
+		
 		s1.setName("Deepak");
 		System.out.println(s1.getName());
 	}
